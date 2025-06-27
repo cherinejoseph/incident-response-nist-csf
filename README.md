@@ -32,21 +32,22 @@ The analysis is broken down into the following steps:
 ## **Supporting Documents**
 
 1. **[Incident Report Analysis Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Incident-report-analysis-template.pdf)**  
-  template to document the analysis and response actions in detail. This template can also be used to practice applying the NIST framework to different situations you encounter.
+    Template to document the analysis and response actions in detail. This template can also be used to practice applying the NIST framework to different situations you encounter.
 
    
 3. **[NIST CSF Framework](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Applying-the-NIST-CSF-.pdf)**  
    This will guide the organization through all stages of responding to and managing the security incident.
 
 
-## **Identify**
-- **Attack Type**: **ICMP Flood (DDoS attack)**.
-- **Target**: The **entire internal network** was affected, including all critical network resources.
-- **Impact**: All critical network resources needed to be secured and restored to ensure functionality.
 
 ---
 
 ## Steps
+
+## **Identify**
+- **Attack Type**: **ICMP Flood (DDoS attack)**.
+- **Target**: The **entire internal network** was affected, including all critical network resources.
+- **Impact**: All critical network resources needed to be secured and restored to ensure functionality.
 
 ## **Protect**
 The cybersecurity team implemented several protective measures to mitigate the impact of future incidents:
