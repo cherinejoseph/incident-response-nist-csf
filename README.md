@@ -38,8 +38,52 @@ The analysis is broken down into the following steps:
    This will guide the organization through all stages of responding to and managing the security incident.
 
 
+## **Identify**
+- **Attack Type**: **ICMP Flood (DDoS attack)**.
+- **Target**: The **entire internal network** was affected, including all critical network resources.
+- **Impact**: All critical network resources needed to be secured and restored to ensure functionality.
 
+---
 
+## Steps
+
+## **Protect**
+The cybersecurity team implemented several protective measures to mitigate the impact of future incidents:
+- **New Firewall Rule**: Rate-limiting for **incoming ICMP packets** to avoid overwhelming the network.
+- **IDS/IPS System**: Deployed to filter out malicious ICMP traffic based on suspicious characteristics.
+
+---
+
+## **Detect**
+To enhance detection capabilities and prevent future attacks:
+- **Source IP Address Verification**: Configured on the firewall to check for **spoofed IP addresses**.
+- **Network Monitoring**: Implemented monitoring software to detect **abnormal traffic patterns** and identify any unusual activity early.
+
+---
+
+## **Respond**
+The cybersecurity team established a response plan for handling future incidents:
+- **Isolation of Affected Systems**: Systems that are affected will be isolated to prevent further disruption.
+- **Restoration of Critical Systems**: Critical systems will be restored first to minimize business disruption.
+- **Log Analysis**: The team will analyze **network logs** to identify suspicious or abnormal activities.
+- **Incident Reporting**: All incidents will be reported to **upper management** and **legal authorities** if needed.
+
+---
+
+## **Recover**
+Recovery steps to restore the organization’s network after an ICMP flood attack:
+- **Restoring Network Services**: Access to network services will be restored to a functioning state once the attack is mitigated.
+- **Blocking Future Attacks**: External **ICMP flood attacks** can be blocked at the firewall level.
+- **Managing Internal Traffic**: Non-critical network services will be stopped temporarily to reduce internal traffic, ensuring the restoration of critical systems first.
+- **Service Restoration**: Once the attack subsides, all non-critical systems and services will be brought back online.
+
+---
+
+This incident report outlines the critical steps the cybersecurity team took to protect, detect, respond to, and recover from the DDoS attack. It also sets the foundation for improving network security and preparedness for future cybersecurity events.
+
+You can view the completed incident report template here:
+
+[Completed Incident Report Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Completed-Incident-report-analysis.pdf)
 
 
 
