@@ -31,7 +31,7 @@ The analysis is broken down into the following steps:
 
 ## **Supporting Documents**
 
-1. **[Incident Report Analysis Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Incident-report-analysis.pdf)**  
+1. **[Incident Report Analysis Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Incident-report-analysis-template.pdf)**  
   template to document the analysis and response actions in detail.
    
 2. **[NIST CSF Framework](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Applying-the-NIST-CSF-.pdf)**  
