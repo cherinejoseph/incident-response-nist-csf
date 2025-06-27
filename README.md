@@ -86,6 +86,12 @@ You can view the completed incident report template here:
 
 [Completed Incident Report Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Completed-Incident-report-analysis.pdf)
 
+## **Acknowledgements**
+
+This project was completed as part of the **Google Cybersecurity Professional Certificate** on **Coursera**. The insights gained in this course informed the process reviews and improvements presented here.
+
+For more information about the **Google Cybersecurity Professional Certificate**, please visit [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+
 
 
 
