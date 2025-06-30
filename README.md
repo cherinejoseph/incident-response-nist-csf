@@ -85,7 +85,7 @@ This incident report outlines the critical steps the cybersecurity team took to 
 
 You can view the completed incident report template here:
 
-[Completed Incident Report Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Completed-Incident-report-analysis.pdf)
+[Completed Incident Report Template](https://github.com/cherinejoseph/incident-response-nist-csf/blob/main/Completed_Incident-report-analysis.pdf)
 
 ## **Acknowledgements**
 
